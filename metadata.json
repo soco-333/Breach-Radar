@@ -1,0 +1,6 @@
+{
+  "name": "BreachRadar",
+  "description": "Credential breach monitoring and alerting service for Indian small businesses and IT service providers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
